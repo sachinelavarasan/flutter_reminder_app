@@ -53,10 +53,6 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA-Fu7pZ2Cf_bpoPhLWeP3DIQqy3X8t3d8',
-    appId: '1:105219453171:android:f64417c18816cd497cc786',
-    messagingSenderId: '105219453171',
-    projectId: 'flutter-taskapp',
-    storageBucket: 'flutter-taskapp.appspot.com',
+  //your credentials
   );
 }
